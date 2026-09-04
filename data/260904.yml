@@ -1,33 +1,35 @@
 about:
-  description: Empower the Web community and invite more to build across platforms.
+  description:
+  |
+    Empower the Web community and invite more to build across platforms.
   license: Apache-2.0
   homepage: https://lynxjs.org
-  head: 45c34b0
+  head: 29adf4a
   archived: false
   latestVersion: 4.0.2
-  collectedAt: 2026-09-04T05:03:22Z
+  collectedAt: 2026-09-04T19:59:25Z
 timeline:
   created: 2025-03-04
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 15125
-  watcher: 81
-  fork: 552
+  star: 15126
+  watcher: 80
+  fork: 551
   release: 25
   contributor: 121
-  pullRequest: 2991
+  pullRequest: 8529
   issue: 512
 language:
-  C++: 36096720
-  Java: 6586553
-  Objective-C: 4000958
-  Objective-C++: 2556305
+  C++: 36125870
+  Java: 6599116
+  Objective-C: 4031768
+  Objective-C++: 2553193
   JavaScript: 2284388
   Python: 914369
   TypeScript: 643949
   C: 574954
-  Kotlin: 385288
+  Kotlin: 385448
   Swift: 283896
   CSS: 78019
   Ruby: 52480
@@ -42,37 +44,63 @@ language:
   Less: 4629
   Pawn: 2349
   Mako: 449
-totalLine: 54668378
+totalBytes: 54737949
 recent:
   last30d:
     since: 2026-08-05
     release: 2
-    mergedPR: 542
-    openPR: 161
+    mergedPR: 560
+    openPR: 167
     closedIssue: 11
     openIssue: 52
-    commit: 306
+    commit: 320
+  last60d:
+    since: 2026-07-06
+    release: 4
+    mergedPR: 1040
+    openPR: 238
+    closedIssue: 14
+    openIssue: 71
+    commit: 649
   last90d:
     since: 2026-06-06
     release: 5
-    mergedPR: 1465
-    openPR: 298
+    mergedPR: 1483
+    openPR: 304
     closedIssue: 15
     openIssue: 77
-    commit: 933
+    commit: 947
   last180d:
     since: 2026-03-08
     release: 10
-    mergedPR: 2853
-    openPR: 461
+    mergedPR: 2871
+    openPR: 467
     closedIssue: 28
     openIssue: 100
-    commit: 1918
+    commit: 1932
   last360d:
     since: 2025-09-09
     release: 18
-    mergedPR: 4775
-    openPR: 780
+    mergedPR: 4793
+    openPR: 786
     closedIssue: 55
     openIssue: 134
-    commit: 3460
+    commit: 3474
+  last720d:
+    since: 2024-09-14
+    release: 25
+    mergedPR: 5530
+    openPR: 925
+    closedIssue: 249
+    openIssue: 262
+    commit: 5334
+total:
+  release: 25
+  mergedPR: 5530
+  openPR: 925
+  closedIssue: 250
+  openIssue: 262
+  commit: 5334
+---
+---
+
