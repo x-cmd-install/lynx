@@ -1,0 +1,78 @@
+about:
+  description: Empower the Web community and invite more to build across platforms.
+  license: Apache-2.0
+  homepage: https://lynxjs.org
+  head: 45c34b0
+  archived: false
+  latestVersion: 4.0.2
+  collectedAt: 2026-09-04T05:03:22Z
+timeline:
+  created: 2025-03-04
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-04
+popularity:
+  star: 15125
+  watcher: 81
+  fork: 552
+  release: 25
+  contributor: 121
+  pullRequest: 2991
+  issue: 512
+language:
+  C++: 36096720
+  Java: 6586553
+  Objective-C: 4000958
+  Objective-C++: 2556305
+  JavaScript: 2284388
+  Python: 914369
+  TypeScript: 643949
+  C: 574954
+  Kotlin: 385288
+  Swift: 283896
+  CSS: 78019
+  Ruby: 52480
+  CMake: 39810
+  Groovy: 39418
+  Shell: 39224
+  Go Template: 30033
+  SCSS: 19801
+  HTML: 15626
+  PowerShell: 13354
+  NASL: 5806
+  Less: 4629
+  Pawn: 2349
+  Mako: 449
+totalLine: 54668378
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 2
+    mergedPR: 542
+    openPR: 161
+    closedIssue: 11
+    openIssue: 52
+    commit: 306
+  last90d:
+    since: 2026-06-06
+    release: 5
+    mergedPR: 1465
+    openPR: 298
+    closedIssue: 15
+    openIssue: 77
+    commit: 933
+  last180d:
+    since: 2026-03-08
+    release: 10
+    mergedPR: 2853
+    openPR: 461
+    closedIssue: 28
+    openIssue: 100
+    commit: 1918
+  last360d:
+    since: 2025-09-09
+    release: 18
+    mergedPR: 4775
+    openPR: 780
+    closedIssue: 55
+    openIssue: 134
+    commit: 3460
