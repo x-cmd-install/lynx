@@ -2,36 +2,36 @@ about:
   description: "Empower the Web community and invite more to build across platforms."
   license: Apache-2.0
   homepage: https://lynxjs.org
-  head: dca0fee
+  head: cd26ecb
   archived: false
   latestVersion: "4.0.2"
-  collectedAt: 2026-09-07T05:50:40Z
+  collectedAt: 2026-09-07T18:56:39Z
 timeline:
   created: 2025-03-04
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 15124
+  star: 15126
   watcher: 81
   fork: 551
   release: 26
   contributor: 121
-  pullRequest: 8554
+  pullRequest: 8602
   issue: 512
 language:
-  C++: 36144918
-  Java: 6615304
-  Objective-C: 4031932
-  Objective-C++: 2568587
+  C++: 36276579
+  Java: 6616055
+  Objective-C: 4037081
+  Objective-C++: 2579144
   JavaScript: 2284388
   Python: 914369
   TypeScript: 643949
-  C: 574954
+  C: 574105
   Kotlin: 385448
   Swift: 283896
   CSS: 78019
   Ruby: 52480
-  CMake: 39810
+  CMake: 40618
   Groovy: 39418
   Shell: 39224
   Go Template: 30033
@@ -42,77 +42,77 @@ language:
   Less: 4629
   Pawn: 2349
   Mako: 449
-totalBytes: 54788743
+totalBytes: 54936820
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 527
-    openPR: 172
+    mergedPR: 561
+    openPR: 185
     closedIssue: 11
     openIssue: 50
-    commit: 0
+    commit: 277
   last60d:
     since: 2026-07-09
     release: 5
-    mergedPR: 979
-    openPR: 236
+    mergedPR: 1013
+    openPR: 249
     closedIssue: 14
     openIssue: 71
-    commit: 0
+    commit: 589
   last90d:
     since: 2026-06-09
     release: 6
-    mergedPR: 1452
-    openPR: 305
+    mergedPR: 1486
+    openPR: 318
     closedIssue: 15
     openIssue: 76
-    commit: 0
+    commit: 908
   last180d:
     since: 2026-03-11
     release: 11
-    mergedPR: 2833
-    openPR: 462
+    mergedPR: 2867
+    openPR: 475
     closedIssue: 28
     openIssue: 100
-    commit: 0
+    commit: 1906
   last360d:
     since: 2025-09-12
     release: 19
-    mergedPR: 4784
-    openPR: 789
+    mergedPR: 4818
+    openPR: 802
     closedIssue: 54
     openIssue: 133
-    commit: 0
+    commit: 3448
   last720d:
     since: 2024-09-17
     release: 26
-    mergedPR: 5548
-    openPR: 931
+    mergedPR: 5582
+    openPR: 944
     closedIssue: 249
     openIssue: 262
-    commit: 5346
+    commit: 5369
 total:
   release: 26
-  mergedPR: 5548
-  openPR: 931
+  mergedPR: 5582
+  openPR: 944
   closedIssue: 250
   openIssue: 262
-  commit: 5346
+  commit: 5369
 ---
 path: /home/runner/.x-repo/github.com/lynx-family/lynx
-collectedAt: 2026-09-07T05:50:56Z
+collectedAt: 2026-09-07T18:56:59Z
 loc:
   Cpp:
-    code: 633393
-    comments: 45203
-    blanks: 94795
-    files: 2770
+    code: 635782
+    comments: 45292
+    blanks: 95123
+    files: 2776
   CHeader:
-    code: 236635
-    comments: 58180
-    blanks: 65245
-    files: 3549
+    code: 237030
+    comments: 58351
+    blanks: 65388
+    files: 3561
   Json:
     code: 177800
     comments: 0
@@ -124,8 +124,8 @@ loc:
     blanks: 22203
     files: 726
   Java:
-    code: 148475
-    comments: 19247
+    code: 148490
+    comments: 19248
     blanks: 23247
     files: 1043
   JavaScript:
@@ -134,24 +134,24 @@ loc:
     blanks: 4342
     files: 232
   ObjectiveC:
-    code: 62714
-    comments: 4496
-    blanks: 9947
-    files: 371
+    code: 62744
+    comments: 4502
+    blanks: 9963
+    files: 373
   ObjectiveCpp:
-    code: 57785
-    comments: 4227
-    blanks: 9702
-    files: 330
+    code: 58034
+    comments: 4236
+    blanks: 9749
+    files: 333
   Yaml:
-    code: 18141
+    code: 18249
     comments: 39
     blanks: 1639
-    files: 97
+    files: 101
   TypeScript:
-    code: 16261
+    code: 16268
     comments: 10821
-    blanks: 2850
+    blanks: 2853
     files: 230
   Kotlin:
     code: 9142
@@ -214,9 +214,9 @@ loc:
     blanks: 205
     files: 7
   CMake:
-    code: 935
-    comments: 279
-    blanks: 314
+    code: 950
+    comments: 281
+    blanks: 315
     files: 23
   Groovy:
     code: 908
@@ -310,8 +310,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13036
-    blanks: 5698
+    comments: 13038
+    blanks: 5699
     files: 234
   Text:
     code: 0
@@ -319,15 +319,15 @@ loc:
     blanks: 215
     files: 63
 total:
-  code: 1644920
-  comments: 180987
-  blanks: 251034
-  files: 10586
+  code: 1648128
+  comments: 181267
+  blanks: 251573
+  files: 10613
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:50:59+00:00
+  collectedAt: 2026-09-07T18:57:01+00:00
   platform:
     darwin/arm64:
       name:  LynxExplorer-macos-arm64.app.tar.gz
