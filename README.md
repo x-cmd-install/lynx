@@ -1,6 +1,24 @@
----
-owner-repo: lynx-family/lynx
-desc:   Empower the Web community and invite more to build across platforms. 
----
-
 # lynx
+
+Empower the Web community and invite more to build across platforms.
+
+- **Upstream**: <https://github.com/lynx-family/lynx>
+- **Homepage**: <https://lynxjs.org>
+- **Latest release**: `4.0.2` (2026-09-04)
+- **Last commit**: 2026-09-08
+- **License**: Apache-2.0
+- **Stars**: 15127 · **Forks**: 551 · **Open issues**: 513 · **Contributors**: 122
+
+## Installation
+
+```sh
+x install lynx
+```
+
+See <https://x-cmd.com/install/lynx> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:45:37Z._
