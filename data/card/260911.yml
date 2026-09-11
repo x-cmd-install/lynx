@@ -2,35 +2,35 @@ about:
   description: "Empower the Web community and invite more to build across platforms."
   license: Apache-2.0
   homepage: https://lynxjs.org
-  head: 7a5990f
+  head: 2147f12
   archived: false
-  latestVersion: "4.0.2"
-  latestRelease: "4.0.2"
+  latestVersion: "4.0.3"
+  latestRelease: "4.0.3"
   latestPrerelease: "3.8.0-rc.0"
-  collectedAt: 2026-09-11T05:59:23Z
+  collectedAt: 2026-09-11T18:55:43Z
 timeline:
   created: 2025-03-04
   lastCommit: 2026-09-11
-  lastVersion: 2026-09-04
-  lastRelease: 2026-09-04
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
   lastPrerelease: 2026-05-11
 popularity:
   star: 15132
   watcher: 81
-  fork: 551
-  release: 26
+  fork: 553
+  release: 27
   contributor: 122
-  pullRequest: 8765
+  pullRequest: 8794
   issue: 515
 language:
-  C++: 36979632
-  Java: 6683016
-  Objective-C: 4078212
-  Objective-C++: 2604434
+  C++: 37035154
+  Java: 6709549
+  Objective-C: 4078163
+  Objective-C++: 2604313
   JavaScript: 2301466
   Python: 914499
-  TypeScript: 639818
-  C: 574366
+  TypeScript: 642059
+  C: 577209
   Kotlin: 434821
   Swift: 283962
   CSS: 78019
@@ -46,77 +46,77 @@ language:
   Less: 4629
   Pawn: 2349
   Mako: 449
-totalBytes: 55838127
+totalBytes: 55925096
 recent:
   last30d:
     since: 2026-08-12
-    release: 3
-    mergedPR: 609
-    openPR: 192
+    release: 4
+    mergedPR: 635
+    openPR: 195
     closedIssue: 10
     openIssue: 51
-    commit: 362
+    commit: 382
   last60d:
     since: 2026-07-13
-    release: 5
-    mergedPR: 1098
-    openPR: 268
+    release: 6
+    mergedPR: 1125
+    openPR: 270
     closedIssue: 16
     openIssue: 71
-    commit: 677
+    commit: 697
   last90d:
     since: 2026-06-13
-    release: 6
-    mergedPR: 1551
-    openPR: 340
+    release: 7
+    mergedPR: 1578
+    openPR: 342
     closedIssue: 17
     openIssue: 75
-    commit: 996
+    commit: 1016
   last180d:
     since: 2026-03-15
-    release: 11
-    mergedPR: 2965
-    openPR: 493
+    release: 12
+    mergedPR: 2992
+    openPR: 495
     closedIssue: 30
     openIssue: 100
-    commit: 1994
+    commit: 2014
   last360d:
     since: 2025-09-16
-    release: 19
-    mergedPR: 4917
-    openPR: 821
+    release: 20
+    mergedPR: 4944
+    openPR: 823
     closedIssue: 56
     openIssue: 134
-    commit: 3536
+    commit: 3556
   last720d:
     since: 2024-09-21
-    release: 26
-    mergedPR: 5711
-    openPR: 969
+    release: 27
+    mergedPR: 5738
+    openPR: 971
     closedIssue: 251
     openIssue: 263
-    commit: 5457
+    commit: 5477
 total:
-  release: 26
-  mergedPR: 5711
-  openPR: 969
+  release: 27
+  mergedPR: 5738
+  openPR: 971
   closedIssue: 252
   openIssue: 263
-  commit: 5457
+  commit: 5477
 ---
 path: /home/runner/.x-repo/github.com/lynx-family/lynx
-collectedAt: 2026-09-11T05:59:40Z
+collectedAt: 2026-09-11T18:55:59Z
 loc:
   Cpp:
-    code: 649135
-    comments: 46286
-    blanks: 96932
-    files: 2818
+    code: 650070
+    comments: 46368
+    blanks: 96980
+    files: 2820
   CHeader:
-    code: 238835
-    comments: 58711
-    blanks: 65821
-    files: 3591
+    code: 239082
+    comments: 58817
+    blanks: 65864
+    files: 3593
   Json:
     code: 177799
     comments: 0
@@ -128,10 +128,10 @@ loc:
     blanks: 22204
     files: 726
   Java:
-    code: 150140
-    comments: 19341
-    blanks: 23413
-    files: 1053
+    code: 150651
+    comments: 19376
+    blanks: 23489
+    files: 1058
   JavaScript:
     code: 67326
     comments: 3226
@@ -143,19 +143,19 @@ loc:
     blanks: 10081
     files: 375
   ObjectiveCpp:
-    code: 58549
+    code: 58548
     comments: 4248
     blanks: 9785
     files: 333
   Yaml:
-    code: 18250
+    code: 18251
     comments: 39
     blanks: 1639
     files: 101
   TypeScript:
-    code: 16115
-    comments: 10817
-    blanks: 2823
+    code: 16138
+    comments: 10831
+    blanks: 2828
     files: 230
   Kotlin:
     code: 10059
@@ -178,9 +178,9 @@ loc:
     blanks: 894
     files: 19
   Tsx:
-    code: 5509
-    comments: 319
-    blanks: 643
+    code: 5524
+    comments: 322
+    blanks: 644
     files: 72
   ReStructuredText:
     code: 5117
@@ -314,8 +314,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13110
-    blanks: 5723
+    comments: 13114
+    blanks: 5727
     files: 235
   Text:
     code: 0
@@ -323,10 +323,10 @@ loc:
     blanks: 215
     files: 63
 total:
-  code: 1667614
-  comments: 182868
-  blanks: 254251
-  files: 10717
+  code: 1669345
+  comments: 183112
+  blanks: 254428
+  files: 10726
 ---
 
 ---
