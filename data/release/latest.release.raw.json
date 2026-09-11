@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7491073,
       "digest": "sha256:4fb128aa541ba59c390d1d2fc1a921fe1d2237d077645647eb9fc740f175ba2c",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-07T04:45:46Z",
       "updated_at": "2026-09-07T04:45:47Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.1.0/Lynx-4.1.0.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3296213,
       "digest": "sha256:862fa26ca20780dfa46f14e24caf398b31627e152feed75e5914faf3c56dd08c",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-09-07T04:45:45Z",
       "updated_at": "2026-09-07T04:45:45Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.1.0/LynxBase-4.1.0.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17405599,
       "digest": "sha256:39f3077d103ee37498bb59decd52d91451866f372b51db15ec9e4fc8facb63f8",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-07T02:00:58Z",
       "updated_at": "2026-09-07T02:01:00Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.1.0/LynxExplorer-macos-arm64.app.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2856592,
       "digest": "sha256:d2270501bc3a134b84241f8edb9c0cd6f783f30caa71c718e8f668f5bfb0525c",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-07T04:45:41Z",
       "updated_at": "2026-09-07T04:45:41Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.1.0/LynxService-4.1.0.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2862598,
       "digest": "sha256:cf61260e84997a6a83aa56edabc88b3faf405711304414d4b4781d883e7b857f",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-09-07T04:45:39Z",
       "updated_at": "2026-09-07T04:45:39Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.1.0/LynxServiceAPI-4.1.0.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 13278627,
       "digest": "sha256:2106258fb2af6066e679177aab43126dbeed66a18fe9584d83adef2eb881ed36",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-07T02:01:01Z",
       "updated_at": "2026-09-07T02:01:03Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.1.0/lynx_sdk_macos_arm64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 3005704,
       "digest": "sha256:a4be69d79654f8480cedfae19f0ffd715ef626a15e4108cfcc3546d9a5d04d51",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-07T04:45:37Z",
       "updated_at": "2026-09-07T04:45:38Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.1.0/XElement-4.1.0.zip"
