@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 27895446,
       "digest": "sha256:5d6fca8b7f945dad6ec429263bdb54dd37c6ee451e12bdddf15691f4e3c91986",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-11T08:45:00Z",
       "updated_at": "2026-09-11T08:45:04Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxExplorer-arm64.app.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17131654,
       "digest": "sha256:9e3c85caae685fe8168daa804725190601d8463bcbd9470b86c4295ff473847a",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-11T10:28:12Z",
       "updated_at": "2026-09-11T10:28:14Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxExplorer-macos-arm64.app.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 154474270,
       "digest": "sha256:6d8fae61cf4da79fded54b26d7bc947af09173669e957bad14809fcc12056e2a",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-11T08:53:00Z",
       "updated_at": "2026-09-11T08:53:13Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxExplorer-noasan-release.apk"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 27311874,
       "digest": "sha256:f76ab12a93a4c82a4e23a147a2d128b95b5803794982822b4a84de6b8358bfb2",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-11T10:23:10Z",
       "updated_at": "2026-09-11T10:23:27Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxExplorer-x86_64.app.tar.gz"
