@@ -21,27 +21,27 @@ x install lynx
 ## Release
 
 - **Latest**: `4.0.3` (2026-09-11)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 15,177 · **Forks**: 558 · **Open issues**: 523 · **Contributors**: 122
+- **Stars**: 15,176 · **Forks**: 558 · **Open issues**: 524 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 6283 · **Open PRs**: 988 · **Closed issues**: 253 · **Open issues**: 270 · **Commits**: 5865
+- **Releases**: 27 · **Merged PRs**: 6308 · **Open PRs**: 993 · **Closed issues**: 253 · **Open issues**: 271 · **Commits**: 5881
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 476 | 115 | 1 | 8 | 213 |
-| last60d | 2026-08-14 | 4 | 1140 | 210 | 10 | 34 | 708 |
-| 90d | 2026-07-15 | 6 | 1619 | 292 | 16 | 77 | 1050 |
-| last180d | 2026-04-16 | 10 | 3069 | 457 | 26 | 98 | 2010 |
-| 360d | 2025-10-18 | 18 | 5228 | 821 | 46 | 135 | 3723 |
-| last720d | 2024-10-23 | 27 | 6283 | 988 | 252 | 270 | 5865 |
+| 30d | 2026-09-14 | 0 | 462 | 119 | 1 | 9 | 229 |
+| last60d | 2026-08-15 | 4 | 1163 | 218 | 10 | 35 | 724 |
+| 90d | 2026-07-16 | 6 | 1622 | 297 | 16 | 77 | 1066 |
+| last180d | 2026-04-17 | 10 | 3076 | 459 | 25 | 99 | 2026 |
+| 360d | 2025-10-19 | 18 | 5252 | 826 | 46 | 136 | 3739 |
+| last720d | 2024-10-24 | 27 | 6308 | 993 | 252 | 271 | 5881 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for lynx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:07:47Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:00:28Z._
