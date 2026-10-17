@@ -14,15 +14,15 @@ x install lynx
 
 ## Code insight
 
-Total: **1,708,461** lines of code across **8796** files in the top 5 languages.
+Total: **1,710,060** lines of code across **8800** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 678,284 | 47,599 | 100,142 | 2914 |
-| CHeader | 242,804 | 60,018 | 66,790 | 3661 |
+| Cpp | 679,404 | 47,651 | 100,216 | 2916 |
+| CHeader | 242,921 | 60,043 | 66,819 | 3663 |
 | Json | 177,948 | 0 | 40 | 428 |
 | Python | 160,958 | 14,934 | 22,264 | 727 |
-| Java | 154,785 | 19,483 | 23,887 | 1066 |
+| Java | 154,827 | 19,483 | 23,892 | 1066 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **1,708,461** lines of code across **8796** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,188 · **Forks**: 560 · **Open issues**: 526 · **Contributors**: 122
+- **Stars**: 15,190 · **Forks**: 560 · **Open issues**: 526 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 6350 · **Open PRs**: 995 · **Closed issues**: 254 · **Open issues**: 272 · **Commits**: 5907
+- **Releases**: 27 · **Merged PRs**: 6363 · **Open PRs**: 998 · **Closed issues**: 255 · **Open issues**: 271 · **Commits**: 5920
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 436 | 105 | 2 | 6 | 254 |
-| last60d | 2026-08-17 | 4 | 1175 | 212 | 6 | 25 | 750 |
-| 90d | 2026-07-18 | 6 | 1648 | 297 | 17 | 78 | 1092 |
-| last180d | 2026-04-19 | 10 | 3112 | 459 | 26 | 100 | 2052 |
-| 360d | 2025-10-21 | 18 | 5265 | 828 | 47 | 137 | 3765 |
-| last720d | 2024-10-26 | 27 | 6350 | 995 | 253 | 272 | 5907 |
+| 30d | 2026-09-17 | 0 | 409 | 103 | 2 | 6 | 266 |
+| last60d | 2026-08-18 | 4 | 1148 | 212 | 6 | 23 | 763 |
+| 90d | 2026-07-19 | 6 | 1657 | 300 | 18 | 77 | 1105 |
+| last180d | 2026-04-20 | 10 | 3102 | 460 | 25 | 99 | 2065 |
+| 360d | 2025-10-22 | 18 | 5261 | 831 | 47 | 136 | 3778 |
+| last720d | 2024-10-27 | 27 | 6363 | 998 | 254 | 271 | 5920 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for lynx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:32:29Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:24:42Z._
