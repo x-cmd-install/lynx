@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3296081,
       "digest": "sha256:6282f69ca43582ff22a1c7525a5e0689b9d53b124143e910506f340e72bdd996",
-      "download_count": 92,
+      "download_count": 93,
       "created_at": "2026-09-11T08:41:31Z",
       "updated_at": "2026-09-11T08:41:32Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxBase-4.0.3.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5643190,
       "digest": "sha256:d8b0c244db35e3706c94319f4e3b9653902f09c0ee772d38e9f320a239a36605",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-09-11T08:41:29Z",
       "updated_at": "2026-09-11T08:41:30Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxDevtool-4.0.3.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 154474270,
       "digest": "sha256:6d8fae61cf4da79fded54b26d7bc947af09173669e957bad14809fcc12056e2a",
-      "download_count": 81,
+      "download_count": 86,
       "created_at": "2026-09-11T08:53:00Z",
       "updated_at": "2026-09-11T08:53:13Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxExplorer-noasan-release.apk"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 27311874,
       "digest": "sha256:f76ab12a93a4c82a4e23a147a2d128b95b5803794982822b4a84de6b8358bfb2",
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2026-09-11T10:23:10Z",
       "updated_at": "2026-09-11T10:23:27Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxExplorer-x86_64.app.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2862516,
       "digest": "sha256:3501420efaf219e3642c469fa0b13d700d9d6332e8e89631f9422f17fd991482",
-      "download_count": 121,
+      "download_count": 123,
       "created_at": "2026-09-11T08:41:26Z",
       "updated_at": "2026-09-11T08:41:27Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.0.3/LynxServiceAPI-4.0.3.zip"
