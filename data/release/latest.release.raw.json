@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3248172,
       "digest": "sha256:9ae7c1478af71e67bd99fac0d39292049b7b6980affc3e3eb57bd043a0a9a2a9",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-26T09:44:51Z",
       "updated_at": "2026-10-26T09:44:51Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/BaseDevtool-4.2.0.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8642365,
       "digest": "sha256:cfd98dc70acdb9dd3710e6c2397394df429b7ebc7a718a84b3e115d807ad41e4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T09:44:49Z",
       "updated_at": "2026-10-26T09:44:50Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/Lynx-4.2.0-dev.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7596285,
       "digest": "sha256:3e8a21ae11001a65c7a2023952d6695ded26a3c0e8dc6a8ae599ac072d94e816",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-10-26T09:44:48Z",
       "updated_at": "2026-10-26T09:44:49Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/Lynx-4.2.0.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3300113,
       "digest": "sha256:f1a45e7521381b2d5fb939285f618ecbfcd33cf6bccf0461514abf104437c783",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-26T09:44:47Z",
       "updated_at": "2026-10-26T09:44:47Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxBase-4.2.0.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5839165,
       "digest": "sha256:5ae6552fe64136c6a600572f2c62ec41f7dd523c1fd4a369f5328c5a01f4fd07",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-26T09:44:45Z",
       "updated_at": "2026-10-26T09:44:45Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxDevtool-4.2.0.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 28517343,
       "digest": "sha256:02c8e4fabc77ff80827f52fb0637e194ad516dd0a1c10786cadb5bdecc7073f2",
-      "download_count": 23,
+      "download_count": 29,
       "created_at": "2026-10-26T03:54:35Z",
       "updated_at": "2026-10-26T03:54:38Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-arm64.app.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17267746,
       "digest": "sha256:215d9dc632ca8207bce16bad17265a68ac3ae1851a1003108f0b46afd9f01266",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-26T03:54:59Z",
       "updated_at": "2026-10-26T03:55:01Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-macos-arm64.app.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 175161839,
       "digest": "sha256:5525a2c64316145bc597f263e67d446751be60396f2395b9c375185ac9d3fa93",
-      "download_count": 16,
+      "download_count": 22,
       "created_at": "2026-10-26T03:56:36Z",
       "updated_at": "2026-10-26T03:56:50Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-noasan-release.apk"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 28108752,
       "digest": "sha256:97b367f5597b19a650d8cbe904c3bef1dd480888112cc7431c6703f8db4122a0",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-10-26T03:52:47Z",
       "updated_at": "2026-10-26T03:52:50Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-x86_64.app.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2860430,
       "digest": "sha256:12a9fdfcac2f60fa2edf561330672b1261c661d661136719497a1159a0f9f94c",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-26T09:44:43Z",
       "updated_at": "2026-10-26T09:44:43Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxService-4.2.0.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2867158,
       "digest": "sha256:94d87a1459f45c5c7a865dcc779f6434f5a660e97cde4edc83e8c5015274e463",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-26T09:44:41Z",
       "updated_at": "2026-10-26T09:44:41Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxServiceAPI-4.2.0.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 62895434,
       "digest": "sha256:3571c4159abd181574ee8a66b7ef922e9db7b416cae978a0b617af3ea215216a",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-10-26T03:48:26Z",
       "updated_at": "2026-10-26T03:48:33Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_explorer-default-unsigned.hap"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 13020640,
       "digest": "sha256:d0d41a71fc39b8a3fb8573f40006c166f3c1af93acf9c1de3fe60a76764ca3b0",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-26T03:54:40Z",
       "updated_at": "2026-10-26T03:54:42Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_sdk_macos_x64.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 9255541,
       "digest": "sha256:4a5a40ca5af15885f15f74cd1782f4c7780ca17471e4cb70da86a09c093384c4",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-26T04:36:53Z",
       "updated_at": "2026-10-26T04:36:54Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_sdk_windows_x64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 3013652,
       "digest": "sha256:7e615d90de23755ff8c14b3a987181fd28433735e8ef8b275bb18263146d5548",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-10-26T09:44:39Z",
       "updated_at": "2026-10-26T09:44:39Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.2.0/XElement-4.2.0.zip"
