@@ -38,22 +38,22 @@ Total: **1,755,451** lines of code across **8886** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,244 · **Forks**: 566 · **Open issues**: 534 · **Contributors**: 125
+- **Stars**: 15,245 · **Forks**: 566 · **Open issues**: 535 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 6782 · **Open PRs**: 1057 · **Closed issues**: 263 · **Open issues**: 271 · **Commits**: 6225
+- **Releases**: 29 · **Merged PRs**: 6782 · **Open PRs**: 1066 · **Closed issues**: 263 · **Open issues**: 272 · **Commits**: 6225
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 545 | 144 | 5 | 7 | 361 |
-| last60d | 2026-09-08 | 3 | 1077 | 215 | 8 | 13 | 744 |
-| 90d | 2026-08-09 | 6 | 1757 | 322 | 22 | 60 | 1192 |
-| last180d | 2026-05-11 | 12 | 3196 | 490 | 31 | 91 | 2147 |
-| 360d | 2025-11-12 | 19 | 5425 | 873 | 51 | 133 | 3890 |
-| last720d | 2024-11-17 | 29 | 6779 | 1057 | 262 | 271 | 6225 |
+| 30d | 2026-10-09 | 2 | 513 | 149 | 5 | 8 | 361 |
+| last60d | 2026-09-09 | 3 | 1040 | 221 | 7 | 14 | 744 |
+| 90d | 2026-08-10 | 6 | 1730 | 325 | 21 | 61 | 1192 |
+| last180d | 2026-05-12 | 11 | 3172 | 498 | 31 | 91 | 2147 |
+| 360d | 2025-11-13 | 19 | 5406 | 880 | 51 | 134 | 3890 |
+| last720d | 2024-11-18 | 29 | 6779 | 1066 | 262 | 272 | 6225 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for lynx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:59:53Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:03:58Z._
