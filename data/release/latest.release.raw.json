@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 108131894,
       "digest": "sha256:011617c4c995546a087871547ff1a71cf018a9212bb48ed28de1d9db8e66a4c6",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-11-13T18:53:52Z",
       "updated_at": "2026-11-13T18:53:56Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/AnimaX-4.3.0-rc.1.xcframework.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 937867177,
       "digest": "sha256:4cea9563238b3a72006bc5528790313ff2f01525e8beabaf5b06367ec0b6d54a",
-      "download_count": 11,
+      "download_count": 18,
       "created_at": "2026-11-13T18:54:09Z",
       "updated_at": "2026-11-13T18:54:53Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/Lynx-4.3.0-rc.1.xcframework.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7563848,
       "digest": "sha256:a7d4398de1904cdfb780dacd4b6faa1995b7a2b117352490f2c0e3d7c03ae9f3",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-13T18:55:30Z",
       "updated_at": "2026-11-13T18:55:31Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxBase-4.3.0-rc.1.xcframework.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 28808356,
       "digest": "sha256:f633dd3f6513e6dbfee47ac5ea427f529fbb9fedd97ec65ff8aec5b96986d3b0",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-13T17:32:51Z",
       "updated_at": "2026-11-13T17:32:53Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-arm64.app.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 176064157,
       "digest": "sha256:55f14b47e1c1f139502d838d9b8289c7f942dcde03aac1aaea513c02ccc4579d",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-13T17:37:27Z",
       "updated_at": "2026-11-13T17:37:40Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-noasan-release.apk"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 28399384,
       "digest": "sha256:bd2486f7269d03e1539342011007afd74676aec4d2f086540c8e2bb93a5aa4eb",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-13T17:32:52Z",
       "updated_at": "2026-11-13T17:32:55Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-x86_64.app.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 215685,
       "digest": "sha256:05052f102221d92cbfebe99a207a16df855776db633dbf6fbca9c6ad07019f91",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-13T18:55:57Z",
       "updated_at": "2026-11-13T18:55:58Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxServiceAPI-4.3.0-rc.1.xcframework.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 13744021,
       "digest": "sha256:93b82243bdb4641d1aadf6743d73980b618fa143781ea1ff0e19dfc4d0714a15",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-13T18:55:59Z",
       "updated_at": "2026-11-13T18:56:24Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxTextra-4.3.0-rc.1.xcframework.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 32289073,
       "digest": "sha256:beaa272655c1a14cdaf61e2277e535576b4a351bb4080044d053c00162eda135",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-13T18:56:28Z",
       "updated_at": "2026-11-13T18:56:30Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/PrimJS-4.3.0-rc.1.xcframework.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 18619087,
       "digest": "sha256:0744515e230bc9c6aa3720b56e93cd4197bbb522b6c1f0763fb403ba5b87a715",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-13T18:56:37Z",
       "updated_at": "2026-11-13T18:56:38Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/ServalMarkdown-4.3.0-rc.1.xcframework.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 11151921,
       "digest": "sha256:2faeb1a07db36959e3e7e35418f730acbb85a1e6e448e0df87d1d7e06b239c94",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-13T18:56:41Z",
       "updated_at": "2026-11-13T18:56:42Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/ServalSVG-4.3.0-rc.1.xcframework.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 8117795,
       "digest": "sha256:c4308ea8ea5ba2c465bb26c3fb113237cde742e371bd7742881f24594852486d",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-13T18:56:44Z",
       "updated_at": "2026-11-13T18:56:44Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/skity-4.3.0-rc.1.xcframework.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 670844,
       "digest": "sha256:53537b3fc55998cd9da3a1b305f8c2dd4afbaacc552a38300f2689da0201033a",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-11-13T18:56:48Z",
       "updated_at": "2026-11-13T18:56:49Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/SSZipArchive-4.3.0-rc.1.xcframework.zip"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 3306592,
       "digest": "sha256:754f4d0965237cea5cfdabfd570cf3df581e20723b566d2e82cc2ab7a3c0f6d0",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-13T18:56:50Z",
       "updated_at": "2026-11-13T18:56:51Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/XElement-4.3.0-rc.1.xcframework.zip"
