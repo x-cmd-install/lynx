@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 937867177,
       "digest": "sha256:4cea9563238b3a72006bc5528790313ff2f01525e8beabaf5b06367ec0b6d54a",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-11-13T18:54:09Z",
       "updated_at": "2026-11-13T18:54:53Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/Lynx-4.3.0-rc.1.xcframework.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 236942948,
       "digest": "sha256:d68ef90007db64df6360957122fb2c0335454965cf4ddda8373cc6e5d4e21ebc",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-13T18:55:32Z",
       "updated_at": "2026-11-13T18:55:44Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxDevtool-4.3.0-rc.1.xcframework.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 28808356,
       "digest": "sha256:f633dd3f6513e6dbfee47ac5ea427f529fbb9fedd97ec65ff8aec5b96986d3b0",
-      "download_count": 3,
+      "download_count": 8,
       "created_at": "2026-11-13T17:32:51Z",
       "updated_at": "2026-11-13T17:32:53Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-arm64.app.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17318758,
       "digest": "sha256:9c1128b92ecfe4a907712085b13323103929208ee68a076b9abf1bbc201a71cd",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-13T17:37:06Z",
       "updated_at": "2026-11-13T17:37:07Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-macos-x64.app.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 176064157,
       "digest": "sha256:55f14b47e1c1f139502d838d9b8289c7f942dcde03aac1aaea513c02ccc4579d",
-      "download_count": 7,
+      "download_count": 18,
       "created_at": "2026-11-13T17:37:27Z",
       "updated_at": "2026-11-13T17:37:40Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-noasan-release.apk"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 19177039,
       "digest": "sha256:1ba8e137fb9676c053b14b3109459cdc75b4feb782b8b0dea971e740c8b8523e",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-13T17:37:41Z",
       "updated_at": "2026-11-13T17:37:42Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-windows-x64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 28399384,
       "digest": "sha256:bd2486f7269d03e1539342011007afd74676aec4d2f086540c8e2bb93a5aa4eb",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-13T17:32:52Z",
       "updated_at": "2026-11-13T17:32:55Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-x86_64.app.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 11151921,
       "digest": "sha256:2faeb1a07db36959e3e7e35418f730acbb85a1e6e448e0df87d1d7e06b239c94",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-13T18:56:41Z",
       "updated_at": "2026-11-13T18:56:42Z",
       "browser_download_url": "https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/ServalSVG-4.3.0-rc.1.xcframework.zip"
