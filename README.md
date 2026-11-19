@@ -14,15 +14,15 @@ x install lynx
 
 ## Code insight
 
-Total: **1,779,909** lines of code across **8957** files in the top 5 languages.
+Total: **1,788,704** lines of code across **8974** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 731,751 | 50,205 | 104,078 | 3004 |
-| CHeader | 247,088 | 61,121 | 67,699 | 3707 |
+| Cpp | 738,428 | 50,632 | 104,617 | 3013 |
+| CHeader | 247,974 | 61,372 | 67,823 | 3715 |
 | Json | 178,086 | 0 | 40 | 432 |
-| Python | 162,764 | 14,960 | 22,479 | 729 |
-| Java | 161,686 | 19,869 | 24,590 | 1085 |
+| Python | 162,765 | 14,960 | 22,479 | 729 |
+| Java | 162,077 | 19,878 | 24,615 | 1085 |
 
 ## Source
 
@@ -32,69 +32,63 @@ Total: **1,779,909** lines of code across **8957** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `4.3.0-rc.1` (2026-11-13)
-- **Last commit**: 2026-11-17
-- **Assets in release**: 32
+- **Latest**: `4.3.0-rc.1` (2026-10-27)
+- **Last commit**: 2026-11-19
+- **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 15,260 · **Forks**: 571 · **Open issues**: 549 · **Contributors**: 125
+- **Stars**: 15,264 · **Forks**: 571 · **Open issues**: 550 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 7035 · **Open PRs**: 1094 · **Closed issues**: 266 · **Open issues**: 283 · **Commits**: 6369
+- **Releases**: 30 · **Merged PRs**: 7096 · **Open PRs**: 1107 · **Closed issues**: 271 · **Open issues**: 279 · **Commits**: 6399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 636 | 147 | 6 | 17 | 336 |
-| last60d | 2026-09-18 | 3 | 1046 | 207 | 9 | 21 | 604 |
-| 90d | 2026-08-19 | 7 | 1784 | 308 | 16 | 36 | 1157 |
-| last180d | 2026-05-21 | 12 | 3230 | 516 | 34 | 101 | 2124 |
-| 360d | 2025-11-22 | 18 | 5536 | 894 | 53 | 144 | 3877 |
-| last720d | 2024-11-27 | 30 | 7030 | 1094 | 265 | 283 | 6369 |
+| 30d | 2026-10-20 | 3 | 648 | 153 | 5 | 18 | 366 |
+| last60d | 2026-09-20 | 3 | 1065 | 215 | 9 | 22 | 634 |
+| 90d | 2026-08-21 | 7 | 1806 | 316 | 16 | 36 | 1187 |
+| last180d | 2026-05-23 | 12 | 3275 | 527 | 35 | 101 | 2154 |
+| 360d | 2025-11-24 | 18 | 5578 | 904 | 57 | 141 | 3907 |
+| last720d | 2024-11-29 | 30 | 7091 | 1107 | 270 | 279 | 6399 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [AnimaX-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/AnimaX-4.3.0-rc.1.xcframework.zip) | 103.1 MiB | `other` |
-| [BaseDevtool-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/BaseDevtool-4.3.0-rc.1.xcframework.zip) | 6.1 MiB | `other` |
-| [DebugRouter-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/DebugRouter-4.3.0-rc.1.xcframework.zip) | 9.6 MiB | `other` |
-| [libwebp-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/libwebp-4.3.0-rc.1.xcframework.zip) | 3.5 MiB | `other` |
-| [Lynx-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/Lynx-4.3.0-rc.1.xcframework.zip) | 894.4 MiB | `other` |
-| [LynxBase-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxBase-4.3.0-rc.1.xcframework.zip) | 7.2 MiB | `other` |
-| [LynxDevtool-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxDevtool-4.3.0-rc.1.xcframework.zip) | 226.0 MiB | `other` |
-| [LynxExplorer-arm64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-arm64.app.tar.gz) | 27.5 MiB | `native/linux/arm64` |
-| [LynxExplorer-macos-arm64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-macos-arm64.app.tar.gz) | 16.6 MiB | `native/darwin/arm64` |
-| [LynxExplorer-macos-x64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-macos-x64.app.tar.gz) | 16.5 MiB | `native/darwin/x64` |
-| [LynxExplorer-noasan-release.apk](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-noasan-release.apk) | 167.9 MiB | `other` |
-| [LynxExplorer-windows-x64.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-windows-x64.tar.gz) | 18.3 MiB | `native/win/x64` |
-| [LynxExplorer-windows-x86.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-windows-x86.tar.gz) | 17.5 MiB | `native/win/x64` |
-| [LynxExplorer-x86_64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxExplorer-x86_64.app.tar.gz) | 27.1 MiB | `native/linux/x64` |
-| [LynxService-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxService-4.3.0-rc.1.xcframework.zip) | 223.2 KiB | `other` |
-| [LynxServiceAPI-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxServiceAPI-4.3.0-rc.1.xcframework.zip) | 210.6 KiB | `other` |
-| [LynxTextra-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/LynxTextra-4.3.0-rc.1.xcframework.zip) | 13.1 MiB | `other` |
-| [lynx_explorer-default-unsigned.hap](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/lynx_explorer-default-unsigned.hap) | 60.2 MiB | `other` |
-| [lynx_sdk_macos_arm64.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/lynx_sdk_macos_arm64.zip) | 12.6 MiB | `native/darwin/arm64` |
-| [lynx_sdk_macos_x64.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/lynx_sdk_macos_x64.zip) | 12.6 MiB | `native/darwin/x64` |
-| [lynx_sdk_windows_x64.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/lynx_sdk_windows_x64.zip) | 9.0 MiB | `native/win/x64` |
-| [lynx_sdk_windows_x86.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/lynx_sdk_windows_x86.zip) | 8.3 MiB | `native/win/x64` |
-| [MJRefresh-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/MJRefresh-4.3.0-rc.1.xcframework.zip) | 602.4 KiB | `other` |
-| [PrimJS-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/PrimJS-4.3.0-rc.1.xcframework.zip) | 30.8 MiB | `other` |
-| [SDWebImage-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/SDWebImage-4.3.0-rc.1.xcframework.zip) | 2.5 MiB | `other` |
-| [SDWebImageWebPCoder-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/SDWebImageWebPCoder-4.3.0-rc.1.xcframework.zip) | 162.2 KiB | `other` |
-| [ServalMarkdown-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/ServalMarkdown-4.3.0-rc.1.xcframework.zip) | 17.8 MiB | `other` |
-| [ServalSVG-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/ServalSVG-4.3.0-rc.1.xcframework.zip) | 10.6 MiB | `other` |
-| [skity-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/skity-4.3.0-rc.1.xcframework.zip) | 7.7 MiB | `other` |
-| [SocketRocket-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/SocketRocket-4.3.0-rc.1.xcframework.zip) | 468.0 KiB | `other` |
-| [SSZipArchive-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/SSZipArchive-4.3.0-rc.1.xcframework.zip) | 655.1 KiB | `other` |
-| [XElement-4.3.0-rc.1.xcframework.zip](https://github.com/lynx-family/lynx/releases/download/4.3.0-rc.1/XElement-4.3.0-rc.1.xcframework.zip) | 3.2 MiB | `other` |
+| [BaseDevtool-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/BaseDevtool-4.2.0-dev.zip) | 3.1 MiB | `other` |
+| [BaseDevtool-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/BaseDevtool-4.2.0.zip) | 3.1 MiB | `other` |
+| [Lynx-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/Lynx-4.2.0-dev.zip) | 8.2 MiB | `other` |
+| [Lynx-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/Lynx-4.2.0.zip) | 7.2 MiB | `other` |
+| [LynxBase-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxBase-4.2.0-dev.zip) | 3.1 MiB | `other` |
+| [LynxBase-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxBase-4.2.0.zip) | 3.1 MiB | `other` |
+| [LynxDevtool-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxDevtool-4.2.0-dev.zip) | 5.6 MiB | `other` |
+| [LynxDevtool-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxDevtool-4.2.0.zip) | 5.6 MiB | `other` |
+| [LynxExplorer-arm64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-arm64.app.tar.gz) | 27.2 MiB | `native/linux/arm64` |
+| [LynxExplorer-macos-arm64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-macos-arm64.app.tar.gz) | 16.5 MiB | `native/darwin/arm64` |
+| [LynxExplorer-macos-x64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-macos-x64.app.tar.gz) | 16.4 MiB | `native/darwin/x64` |
+| [LynxExplorer-noasan-release.apk](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-noasan-release.apk) | 167.0 MiB | `other` |
+| [LynxExplorer-windows-x64.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-windows-x64.tar.gz) | 18.1 MiB | `native/win/x64` |
+| [LynxExplorer-windows-x86.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-windows-x86.tar.gz) | 17.4 MiB | `native/win/x64` |
+| [LynxExplorer-x86_64.app.tar.gz](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxExplorer-x86_64.app.tar.gz) | 26.8 MiB | `native/linux/x64` |
+| [LynxService-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxService-4.2.0-dev.zip) | 2.7 MiB | `other` |
+| [LynxService-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxService-4.2.0.zip) | 2.7 MiB | `other` |
+| [LynxServiceAPI-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxServiceAPI-4.2.0-dev.zip) | 2.7 MiB | `other` |
+| [LynxServiceAPI-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/LynxServiceAPI-4.2.0.zip) | 2.7 MiB | `other` |
+| [lynx_explorer-default-unsigned.hap](https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_explorer-default-unsigned.hap) | 60.0 MiB | `other` |
+| [lynx_sdk_macos_arm64.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_sdk_macos_arm64.zip) | 12.5 MiB | `native/darwin/arm64` |
+| [lynx_sdk_macos_x64.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_sdk_macos_x64.zip) | 12.4 MiB | `native/darwin/x64` |
+| [lynx_sdk_windows_x64.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_sdk_windows_x64.zip) | 8.8 MiB | `native/win/x64` |
+| [lynx_sdk_windows_x86.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/lynx_sdk_windows_x86.zip) | 8.2 MiB | `native/win/x64` |
+| [XElement-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/XElement-4.2.0-dev.zip) | 2.9 MiB | `other` |
+| [XElement-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/XElement-4.2.0.zip) | 2.9 MiB | `other` |
 
 ## Distribution status
 
-Reported by **206** distros on [repology.org](https://repology.org/project/lynx). **55** are ✅ on the latest upstream release, **136** are ⚠️ on an older version.
+Reported by **205** distros on [repology.org](https://repology.org/project/lynx). **55** are ✅ on the latest upstream release, **135** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -120,4 +114,4 @@ Install metadata for lynx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T11:08:12Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:08:01Z._
