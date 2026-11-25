@@ -14,15 +14,15 @@ x install lynx
 
 ## Code insight
 
-Total: **1,803,787** lines of code across **9003** files in the top 5 languages.
+Total: **1,809,578** lines of code across **9020** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 747,732 | 50,976 | 104,808 | 3016 |
-| CHeader | 248,478 | 61,501 | 67,855 | 3726 |
+| Cpp | 751,700 | 51,028 | 105,063 | 3028 |
+| CHeader | 248,886 | 61,525 | 67,887 | 3728 |
 | Json | 178,115 | 0 | 40 | 432 |
-| Java | 163,679 | 19,979 | 24,779 | 1100 |
-| Python | 162,771 | 14,962 | 22,479 | 729 |
+| Java | 163,739 | 20,001 | 24,787 | 1101 |
+| Python | 162,986 | 14,974 | 22,491 | 731 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,803,787** lines of code across **9003** files in the top 5 languages.
 ## Release
 
 - **Latest**: `4.3.0-rc.1` (2026-10-27)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 15,275 · **Forks**: 572 · **Open issues**: 552 · **Contributors**: 125
+- **Stars**: 15,278 · **Forks**: 572 · **Open issues**: 552 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 7198 · **Open PRs**: 1124 · **Closed issues**: 271 · **Open issues**: 281 · **Commits**: 6470
+- **Releases**: 30 · **Merged PRs**: 7226 · **Open PRs**: 1134 · **Closed issues**: 272 · **Open issues**: 280 · **Commits**: 6490
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 655 | 169 | 3 | 20 | 301 |
-| last60d | 2026-09-25 | 3 | 1062 | 225 | 9 | 24 | 626 |
-| 90d | 2026-08-26 | 6 | 1800 | 311 | 16 | 37 | 1152 |
-| last180d | 2026-05-28 | 11 | 3264 | 532 | 35 | 102 | 2137 |
-| 360d | 2025-11-29 | 17 | 5615 | 914 | 57 | 143 | 3904 |
-| last720d | 2024-12-04 | 30 | 7193 | 1124 | 270 | 281 | 6470 |
+| 30d | 2026-10-26 | 2 | 640 | 174 | 4 | 18 | 319 |
+| last60d | 2026-09-26 | 3 | 1090 | 237 | 10 | 23 | 646 |
+| 90d | 2026-08-27 | 6 | 1800 | 318 | 17 | 33 | 1172 |
+| last180d | 2026-05-29 | 11 | 3267 | 541 | 36 | 100 | 2157 |
+| 360d | 2025-11-30 | 17 | 5643 | 924 | 57 | 142 | 3924 |
+| last720d | 2024-12-05 | 30 | 7221 | 1134 | 271 | 280 | 6490 |
 
 ## Release assets
 
@@ -86,25 +86,6 @@ Total: **1,803,787** lines of code across **9003** files in the top 5 languages.
 | [XElement-4.2.0-dev.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/XElement-4.2.0-dev.zip) | 2.9 MiB | `other` |
 | [XElement-4.2.0.zip](https://github.com/lynx-family/lynx/releases/download/4.2.0/XElement-4.2.0.zip) | 2.9 MiB | `other` |
 
-## Distribution status
-
-Reported by **205** distros on [repology.org](https://repology.org/project/lynx). **55** are ✅ on the latest upstream release, **134** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.9.3` | ✅ latest |
-| Debian 14 | `2.9.3` | ✅ latest |
-| Debian 13 | `2.9.2` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.9.2` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.9.0rel.0` | ⚠️ outdated |
-| Arch | `2.9.3` | ✅ latest |
-| Homebrew | `2.9.3` | ✅ latest |
-| Fedora rawhide | `2.9.3` | ✅ latest |
-| Nix unstable | `2.9.3` | ✅ latest |
-| Void | `2.9.3` | ✅ latest |
-| Alpine edge | `2.9.3` | ✅ latest |
-| openSUSE Tumbleweed | `2.9.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for lynx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lynx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -114,4 +95,4 @@ Install metadata for lynx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:24:49Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:45:16Z._
